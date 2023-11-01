@@ -30,5 +30,7 @@ Imagen del proyecto en dockerHub: https://hub.docker.com/r/jeforero0315/sparkpro
 6. revisar por medio de la dirección
 ![image](https://github.com/jeforero0315/RepositorioAYGOJen/assets/149447477/034f9103-c88f-4363-b51c-56d5bb80adf9)
 7. Ponemos en el navegaro la direccion DNS, agregamos el puerto en donde está escuchando que es 42000 y "/hello" lo cual está definido en el main del proyecto
+
+8. 
 ![image](https://github.com/jeforero0315/RepositorioAYGOJen/assets/149447477/a63f3133-cce1-478a-a99b-fcb41a5ceb84)
 
